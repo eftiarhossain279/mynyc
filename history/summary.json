@@ -40,19 +40,19 @@
     "url": "http://nycmesh70.duckdns.org",
     "icon": "https://icons.duckduckgo.com/ip3/nycmesh70.duckdns.org.ico",
     "slug": "cdn-mikrotik-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 4592,
-    "timeDay": 2166,
-    "timeWeek": 4592,
-    "timeMonth": 4592,
-    "timeYear": 4592,
+    "status": "up",
+    "uptime": "98.71%",
+    "uptimeDay": "98.30%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
+    "time": 5582,
+    "timeDay": 4865,
+    "timeWeek": 5582,
+    "timeMonth": 5582,
+    "timeYear": 5582,
     "dailyMinutesDown": {
-      "2024-09-20": 0
+      "2024-09-20": 24
     }
   }
 ]
