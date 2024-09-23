@@ -1,7 +1,7 @@
 url: http://nycmesh40.duckdns.org:64000
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-09-23T17:53:22.982Z
+status: up
+code: 200
+responseTime: 454
+lastUpdated: 2024-09-23T18:16:37.316Z
 startTime: 2024-09-19T05:19:23.769Z
 generator: Upptime <https://github.com/upptime/upptime>
