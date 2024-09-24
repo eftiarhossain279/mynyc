@@ -4,12 +4,12 @@ repo: mynyc # The name of this repository
 
 sites:
   - name: MY-Mikrotik
-    url: http://nycmesh40.duckdns.org:64000
-    url: http://nycmesh2.duckdns.org:64000
-    url: http://nycmesh3.duckdns.org:64000
-    url: http://nycmesh4.duckdns.org:64000
+    url: http://118.179.45.40:64000
+    url: http://37.221.99.115:64000
+    url: http://103.158.231.11:64000
+    url: http://103.217.84.226:64000
   - name: CDN-Mikrotik-1
-    url: http://nycmesh40.duckdns.org
+    url: http://118.179.45.40
   - name: CDN-Mikrotik-2
     url: http://118.179.50.70
 status-website:
