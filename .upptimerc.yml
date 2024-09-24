@@ -8,7 +8,7 @@ sites:
   - name: CDN-Mikrotik-1
     url: http://nycmesh40.duckdns.org
   - name: CDN-Mikrotik-2
-    url: http://nycmesh70.duckdns.org
+    url: http://118.179.50.70
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
