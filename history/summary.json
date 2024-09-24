@@ -4,18 +4,20 @@
     "url": "http://118.179.45.40:64000",
     "icon": "https://icons.duckduckgo.com/ip3/118.179.45.40.ico",
     "slug": "my-mikrotik-1",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.50%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
     "time": 550,
     "timeDay": 550,
     "timeWeek": 550,
     "timeMonth": 550,
     "timeYear": 550,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-24": 1
+    }
   },
   {
     "name": "MY-Mikrotik-2",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/103.158.231.11.ico",
     "slug": "my-mikrotik-3",
     "status": "down",
-    "uptime": "98.95%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "98.95%",
-    "uptimeMonth": "98.95%",
-    "uptimeYear": "98.95%",
+    "uptime": "27.16%",
+    "uptimeDay": "27.16%",
+    "uptimeWeek": "27.16%",
+    "uptimeMonth": "27.16%",
+    "uptimeYear": "27.16%",
     "time": 592,
     "timeDay": 592,
     "timeWeek": 592,
     "timeMonth": 592,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-09-24": 1
+      "2024-09-24": 156
     }
   },
   {
@@ -61,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/103.217.84.226.ico",
     "slug": "my-mikrotik-4",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "27.40%",
+    "uptimeDay": "27.40%",
+    "uptimeWeek": "27.40%",
+    "uptimeMonth": "27.40%",
+    "uptimeYear": "27.40%",
     "time": 517,
     "timeDay": 517,
     "timeWeek": 517,
     "timeMonth": 517,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2024-09-24": 0
+      "2024-09-24": 156
     }
   },
   {
@@ -99,11 +101,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/118.179.50.70.ico",
     "slug": "cdn-mikrotik-2",
     "status": "up",
-    "uptime": "99.67%",
+    "uptime": "99.68%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.67%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 3552,
     "timeDay": 4077,
     "timeWeek": 3552,
