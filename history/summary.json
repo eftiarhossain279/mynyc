@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2024-12-20": 1380,
+      "2024-12-20": 1398,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
@@ -120,7 +120,7 @@
     "timeMonth": 0,
     "timeYear": 2360,
     "dailyMinutesDown": {
-      "2024-12-20": 1380,
+      "2024-12-20": 1398,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
@@ -214,11 +214,11 @@
     "uptimeWeek": "98.74%",
     "uptimeMonth": "97.31%",
     "uptimeYear": "84.15%",
-    "time": 682,
-    "timeDay": 4244,
-    "timeWeek": 1425,
-    "timeMonth": 811,
-    "timeYear": 682,
+    "time": 681,
+    "timeDay": 4215,
+    "timeWeek": 1340,
+    "timeMonth": 805,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2024-12-19": 67,
       "2024-12-17": 60,
@@ -272,7 +272,7 @@
     "timeMonth": 0,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2024-12-20": 1380,
+      "2024-12-20": 1398,
       "2024-12-19": 1440,
       "2024-12-18": 1440,
       "2024-12-17": 1440,
@@ -365,11 +365,11 @@
     "uptimeWeek": "79.01%",
     "uptimeMonth": "95.17%",
     "uptimeYear": "97.80%",
-    "time": 924,
-    "timeDay": 774,
-    "timeWeek": 773,
+    "time": 922,
+    "timeDay": 762,
+    "timeWeek": 770,
     "timeMonth": 761,
-    "timeYear": 924,
+    "timeYear": 922,
     "dailyMinutesDown": {
       "2024-12-16": 525,
       "2024-12-15": 1440,
@@ -385,12 +385,12 @@
     "url": "http://118.179.50.70",
     "icon": "https://icons.duckduckgo.com/ip3/118.179.50.70.ico",
     "slug": "cdn-mikrotik-2",
-    "status": "up",
-    "uptime": "96.79%",
-    "uptimeDay": "50.60%",
-    "uptimeWeek": "57.51%",
-    "uptimeMonth": "90.22%",
-    "uptimeYear": "96.79%",
+    "status": "down",
+    "uptime": "96.84%",
+    "uptimeDay": "51.80%",
+    "uptimeWeek": "58.17%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "96.84%",
     "time": 6460,
     "timeDay": 7113,
     "timeWeek": 7897,
@@ -403,7 +403,7 @@
       "2024-12-17": 615,
       "2024-12-16": 571,
       "2024-12-15": 771,
-      "2024-12-14": 511
+      "2024-12-14": 444
     }
   }
 ]
