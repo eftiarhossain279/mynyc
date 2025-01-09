@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-01-09": 585,
+      "2025-01-09": 597,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -140,7 +140,7 @@
     "timeMonth": 0,
     "timeYear": 2360,
     "dailyMinutesDown": {
-      "2025-01-09": 585,
+      "2025-01-09": 597,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -248,10 +248,10 @@
     "url": "http://103.158.231.11:64000",
     "icon": "https://icons.duckduckgo.com/ip3/103.158.231.11.ico",
     "slug": "my-mikrotik-3",
-    "status": "up",
+    "status": "down",
     "uptime": "86.49%",
-    "uptimeDay": "52.89%",
-    "uptimeWeek": "93.06%",
+    "uptimeDay": "52.81%",
+    "uptimeWeek": "93.04%",
     "uptimeMonth": "96.96%",
     "uptimeYear": "86.49%",
     "time": 686,
@@ -260,7 +260,7 @@
     "timeMonth": 857,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-01-09": 293,
+      "2025-01-09": 294,
       "2025-01-08": 386,
       "2025-01-06": 22,
       "2024-12-23": 138,
@@ -316,7 +316,7 @@
     "timeMonth": 0,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-01-09": 585,
+      "2025-01-09": 597,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
@@ -449,12 +449,12 @@
     "url": "http://118.179.50.70",
     "icon": "https://icons.duckduckgo.com/ip3/118.179.50.70.ico",
     "slug": "cdn-mikrotik-2",
-    "status": "up",
-    "uptime": "96.34%",
-    "uptimeDay": "28.94%",
-    "uptimeWeek": "43.53%",
-    "uptimeMonth": "86.52%",
-    "uptimeYear": "96.34%",
+    "status": "down",
+    "uptime": "96.36%",
+    "uptimeDay": "29.73%",
+    "uptimeWeek": "43.64%",
+    "uptimeMonth": "86.58%",
+    "uptimeYear": "96.36%",
     "time": 6635,
     "timeDay": 8201,
     "timeWeek": 6375,
@@ -468,7 +468,7 @@
       "2025-01-05": 938,
       "2025-01-04": 607,
       "2025-01-03": 679,
-      "2025-01-02": 748
+      "2025-01-02": 722
     }
   }
 ]
