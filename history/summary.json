@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-01-18": 1001,
+      "2025-01-18": 1024,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -149,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 2360,
     "dailyMinutesDown": {
-      "2025-01-18": 1001,
+      "2025-01-18": 1024,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -323,18 +323,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/103.217.84.226.ico",
     "slug": "my-mikrotik-4",
     "status": "down",
-    "uptime": "8.94%",
+    "uptime": "8.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "8.94%",
+    "uptimeYear": "8.93%",
     "time": 724,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-01-18": 1001,
+      "2025-01-18": 1024,
       "2025-01-17": 1440,
       "2025-01-16": 1440,
       "2025-01-15": 1440,
@@ -477,12 +477,12 @@
     "url": "http://118.179.50.70",
     "icon": "https://icons.duckduckgo.com/ip3/118.179.50.70.ico",
     "slug": "cdn-mikrotik-2",
-    "status": "up",
-    "uptime": "96.61%",
-    "uptimeDay": "39.85%",
-    "uptimeWeek": "41.27%",
-    "uptimeMonth": "86.49%",
-    "uptimeYear": "96.61%",
+    "status": "down",
+    "uptime": "96.76%",
+    "uptimeDay": "41.47%",
+    "uptimeWeek": "43.81%",
+    "uptimeMonth": "87.07%",
+    "uptimeYear": "96.76%",
     "time": 6917,
     "timeDay": 7854,
     "timeWeek": 8475,
@@ -495,8 +495,7 @@
       "2025-01-15": 783,
       "2025-01-14": 744,
       "2025-01-13": 846,
-      "2025-01-12": 1003,
-      "2025-01-11": 42
+      "2025-01-12": 790
     }
   }
 ]
