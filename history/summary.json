@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2025-01-21": 296,
+      "2025-01-21": 317,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
@@ -152,7 +152,7 @@
     "timeMonth": 0,
     "timeYear": 2360,
     "dailyMinutesDown": {
-      "2025-01-21": 296,
+      "2025-01-21": 317,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 724,
     "dailyMinutesDown": {
-      "2025-01-21": 296,
+      "2025-01-21": 317,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
@@ -460,18 +460,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/118.179.45.40.ico",
     "slug": "cdn-mikrotik-1",
     "status": "down",
-    "uptime": "97.13%",
+    "uptime": "97.12%",
     "uptimeDay": "11.73%",
-    "uptimeWeek": "78.41%",
-    "uptimeMonth": "95.03%",
-    "uptimeYear": "97.13%",
+    "uptimeWeek": "78.20%",
+    "uptimeMonth": "94.98%",
+    "uptimeYear": "97.12%",
     "time": 884,
     "timeDay": 768,
     "timeWeek": 748,
     "timeMonth": 763,
     "timeYear": 884,
     "dailyMinutesDown": {
-      "2025-01-21": 296,
+      "2025-01-21": 317,
       "2025-01-20": 1271,
       "2025-01-19": 511,
       "2025-01-16": 98,
@@ -489,16 +489,16 @@
     "url": "http://118.179.50.70",
     "icon": "https://icons.duckduckgo.com/ip3/118.179.50.70.ico",
     "slug": "cdn-mikrotik-2",
-    "status": "up",
-    "uptime": "96.89%",
-    "uptimeDay": "41.34%",
-    "uptimeWeek": "45.06%",
-    "uptimeMonth": "87.36%",
-    "uptimeYear": "96.89%",
+    "status": "down",
+    "uptime": "96.95%",
+    "uptimeDay": "42.75%",
+    "uptimeWeek": "46.08%",
+    "uptimeMonth": "87.59%",
+    "uptimeYear": "96.95%",
     "time": 6986,
     "timeDay": 8741,
     "timeWeek": 8147,
-    "timeMonth": 7443,
+    "timeMonth": 7449,
     "timeYear": 6986,
     "dailyMinutesDown": {
       "2025-01-21": 145,
@@ -508,7 +508,7 @@
       "2025-01-17": 1043,
       "2025-01-16": 909,
       "2025-01-15": 783,
-      "2025-01-14": 153
+      "2025-01-14": 51
     }
   }
 ]
