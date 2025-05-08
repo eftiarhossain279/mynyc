@@ -1,0 +1,42 @@
+name: Notify via SendGrid Email
+
+on:
+  workflow_run:
+    workflows: ["Update summary"]  # After Upptime checks finish
+    types:
+      - completed
+
+jobs:
+  notify:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Check for downtime
+        id: check
+        run: |
+          if grep -q "🟥" README.md; then
+            echo "status=down" >> $GITHUB_OUTPUT
+          else
+            echo "status=ok" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Send email if down
+        if: steps.check.outputs.status == 'down'
+        run: |
+          curl -X POST https://api.sendgrid.com/v3/mail/send \
+            -H "Authorization: Bearer ${{ secrets.SENDGRID_API_KEY }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "personalizations": [{
+                "to": [{"email": "'"${{ secrets.EMAIL_TO }}"'"}],
+                "subject": "🚨 Your monitored site is DOWN"
+              }],
+              "from": {"email": "'"${{ secrets.EMAIL_FROM }}"'"},
+              "content": [{
+                "type": "text/plain",
+                "value": "A service monitored by Upptime is down. Check the status page for details: https://github.com/${{ github.repository }}"
+              }]
+            }'
