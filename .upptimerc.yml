@@ -3,18 +3,18 @@ owner: eftiarhossain279 # Your GitHub organization or username, where this repos
 repo: mynyc # The name of this repository
 
 sites:
-  - name: MY-Mikrotik-1
-    url: http://118.179.45.40:64000
-  - name: MY-Mikrotik-2  
-    url: http://37.221.99.115:64000
-  - name: MY-Mikrotik-3  
-    url: http://103.158.231.11:64000
-  - name: MY-Mikrotik-4  
-    url: http://103.217.84.226:64000
-  - name: CDN-Mikrotik-1
-    url: http://118.179.45.40
-  - name: CDN-Mikrotik-2
-    url: http://118.179.50.70
+  - name: MY-Mikrotik
+    url: http://180.94.28.123
+  
+
+  
+
+  
+
+ 
+
+ 
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
