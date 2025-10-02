@@ -4,7 +4,7 @@ repo: mynyc # The name of this repository
 
 sites:
   - name: MY-Mikrotik
-    url: http://180.94.28.123
+    url: http://nycmesh.duckdns.org:9991/
   
 
   
